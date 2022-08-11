@@ -1,9 +1,9 @@
 # Senai_UC8 Atividade Lista de Peças
 
-[![GitHub](https://badges.aleen42.com/src/github.svg)]
-[![JavaScript](https://badges.aleen42.com/src/javascript.svg)]
-[![Node](https://badges.aleen42.com/src/node.svg)]
-[![VisualCode](https://badges.aleen42.com/src/visual_studio_code.svg)]
+![GitHub](https://badges.aleen42.com/src/github.svg)
+![JavaScript](https://badges.aleen42.com/src/javascript.svg)
+![Node](https://badges.aleen42.com/src/node.svg)
+![VisualCode](https://badges.aleen42.com/src/visual_studio_code.svg)
 
 ## Índice
 * [Descrição do projeto](#descricao-do-projeto)
@@ -27,10 +27,10 @@ Criar um sistema de cadastro para peças do qual atenda os seguintes requesitos:
 * Visual Studio Code Version 1.70
 
 ## Acesso ao Projeto
-Para acessar o projeto instalar, você precisar instalar o Node.js: [https://nodejs.org/en/]
+Para acessar o projeto instalar, você precisar instalar o Node.js: https://nodejs.org/en/
 
-Ter acesso ao Visual Studio Code com a extensão Shell instalada, aqui tem um guia de como fazer esta parte: [https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/
-]
+Ter acesso ao Visual Studio Code com a extensão Shell instalada, aqui tem um guia de como fazer esta parte: https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/
+
 
 Na sua terminal, utilizei a sequencia de comandos:
 
