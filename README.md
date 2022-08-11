@@ -11,7 +11,7 @@
 * [Acesso ao projecto](#acesso-ao-projeto)
 
 ## Descrição do Projeto
-Criar um sistema de cadastro para peças do qual atenda os seguintes requesitos:
+Criar um sistema de cadastro para peças do qual atenda os seguintes requisitos:
 
 - Se a peça possuir um peso superior a 100 gramas, pode cadastrar.
 
