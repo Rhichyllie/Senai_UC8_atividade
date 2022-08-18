@@ -44,8 +44,7 @@ for (let i = 0;  i < lista_dePecas.length; i++) {
 
     if (lista_dePecas[i].nomePeca.length < 3){
         console.log("Erro no nome da peca: ", lista_dePecas[i].nomePeca)
-    }
-    else{
+    } else {
             console.log("Cadastro completo da peca:", lista_dePecas[i].nomePeca)
     }
 
@@ -58,8 +57,7 @@ for (let i = 0; i < lista_dePecas.length; i++) {
 
     if (lista_dePecas[i].quantPeca > 10) {
         console.log("Ultrapassou o limite da caixa, peca nao autorizada: ", lista_dePecas[i].nomePeca)
-    }
-    else {
+    } else {
         console.log("Caixa ok, peca autorizada: ", lista_dePecas[i].nomePeca)
     }
 }

@@ -32,7 +32,7 @@ Para acessar o projeto instalar, você precisar instalar o Node.js: https://node
 Ter acesso ao Visual Studio Code com a extensão Shell instalada, aqui tem um guia de como fazer esta parte: https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/
 
 
-Na sua terminal, utilizei a sequencia de comandos:
+Na sua terminal, utilizei a sequência de comandos:
 
 ```
 $ git clone https://github.com/Rhichyllie/Senai_UC8_atividade.git
