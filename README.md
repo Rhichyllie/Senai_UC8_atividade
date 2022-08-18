@@ -27,16 +27,16 @@ Criar um sistema de cadastro para peças do qual atenda os seguintes requisitos:
 * Visual Studio Code Version 1.70
 
 ## Acesso ao Projeto
-Para acessar o projeto instalar, você precisar instalar o Node.js: https://nodejs.org/en/
+- Para acessar o projeto instalar, você precisar instalar o Node.js: https://nodejs.org/en/
 
-Ter acesso ao Visual Studio Code com a extensão Shell instalada, aqui tem um guia de como fazer esta parte: https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/
+- Ter acesso ao Visual Studio Code com a extensão Shell instalada, aqui tem um guia de como fazer esta parte: https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/
 
 
-Na sua terminal, utilizei a sequência de comandos:
+- Na sua terminal, utilizei a sequência de comandos:
 
 ```
-$ git clone https://github.com/Rhichyllie/Senai_UC8_atividade.git
-$ cd Senai_UC8_atividade
+$ git clone https://github.com/Rhichyllie/Senai_UC8_lista_dePecas.git
+$ cd Senai_UC8_lista_dePecas
 $ code .
 $ node listaPecas.js
 ```
